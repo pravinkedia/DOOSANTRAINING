@@ -20,10 +20,9 @@ Use this token directly against the API
 curl -H "Authorization: Bearer 9l90pv1kib-MV3ZZXi8NXUOqxYxJReyD0YHL0zKl0Nw" "https://c109-e.us-east.containers.cloud.ibm.com:30916/apis/user.openshift.io/v1/users/~"
 
 C:\Users\PRAVINKEDIA\Downloads\OCP>oc version
-  
-  Client Version: 4.6.17
-  Server Version: 4.5.35
-  Kubernetes Version: v1.18.3+cdb0358
+    Client Version: 4.6.17
+    Server Version: 4.5.35
+    Kubernetes Version: v1.18.3+cdb0358
 
 
 ### Get Node Status
