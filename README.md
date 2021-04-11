@@ -22,9 +22,7 @@ curl -H "Authorization: Bearer 9l90pv1kib-MV3ZZXi8NXUOqxYxJReyD0YHL0zKl0Nw" "htt
 C:\Users\PRAVINKEDIA\Downloads\OCP>oc version
   
   Client Version: 4.6.17
-  
   Server Version: 4.5.35
-  
   Kubernetes Version: v1.18.3+cdb0358
 
 
