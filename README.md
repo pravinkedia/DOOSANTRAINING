@@ -147,3 +147,7 @@ s3('s3-api.us-geo.objectstorage.softlayer.net',
 
 insert into bank_customers select * from et_bank_customers;
 
+### DB2 BIGSQL S3 Integration
+
+https://github.com/pravinkedia/CP4DBIGSQLS3
+
