@@ -71,28 +71,33 @@ jdbc:db2://10.191.195.39:31395/BLUDB:user=cp4d@doosan.com;password=123qwer@;secu
 
 ### DB2 Exercise using tables in DEV3 schema in DB2 Warehouse
 
-DB2 Date Time functions	
+#### DB2 Date Time functions	
 https://developer.ibm.com/technologies/data-management/articles/fun-with-dates-and-times/
 
-DB2 OLAP and Analytics functions	
+#### DB2 OLAP and Analytics functions	
 https://www.ibm.com/support/knowledgecenter/sr/SSEPGG_11.5.0/com.ibm.db2.luw.sql.ref.doc/doc/r0061949.html
+
 https://www.ibm.com/support/knowledgecenter/sr/SSEPGG_11.5.0/com.ibm.db2.luw.sql.ref.doc/doc/r0011043.html
+
 https://www.ibm.com/support/knowledgecenter/sr/SSEPGG_11.5.0/com.ibm.db2.luw.sql.ref.doc/doc/r0061840.html
+
 https://www.ibm.com/support/knowledgecenter/SSFMBX/com.ibm.swg.im.dashdb.sql.ref.doc/doc/r0023461.html
 
-DB2 OLAP Functions	
+#### DB2 OLAP Functions	
 https://www.wisdomjobs.com/e-university/db2-using-sql-tutorial-283/olap-functions-definitions-1690.html
+
 https://www.idug.org/browse/blogs/blogviewer?blogkey=de6955ad-e3cf-48f6-84b5-619afcf83c28
 
-DB2 Aggregate Functions	
+#### DB2 Aggregate Functions	
 https://www.db2tutorial.com/db2-aggregate-functions/
 https://www.db2tutorial.com/db2-window-functions/db2-rank/
 
-DB2 ROW Number functions	
+#### DB2 ROW Number functions	
 https://www.daharveyjr.com/numbering-rows-in-db2-with-row_number-and-partition-by/
 
-DB2 Intersect, except functions	
+#### DB2 Intersect, except functions	
 https://www.datavail.com/blog/using-intersect-and-except-in-db2/
+
 https://www.db2tutorial.com/db2-basics/db2-intersect/
 
 #### DB2 Create External Table on S3
