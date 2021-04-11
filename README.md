@@ -106,11 +106,13 @@ create external table et_bank_customers SAMEAS bank_customers using
 dataobject 'bank_customers.csv'
 delimite ','
 nullvalue ''
+
 s3('s3-api.us-geo.objectstorage.softlayer.net',
     'api key',
     'api secret',
     'bucketname'
 )
+
 );
 
 insert into bank_customers select * from et_bank_customers;
