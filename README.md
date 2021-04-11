@@ -30,13 +30,27 @@ oc get nodes
 
 oc get nodes -o wide
 
-oc get nodes show-labels
+oc get node --show-labels
 
 oc adm  top nodes
 
 https://docs.openshift.com/container-platform/4.1/nodes/nodes/nodes-nodes-viewing.html
 
 ### Get Pods status
+
+oc get pods -A
+
+oc get pods -A -o wide
+
+oc adm top pods
+
+### Get Jobs
+
+oc get jobs 
+
+oc get jobs -A
+
+
 
 ### Get Storage Class
 
@@ -54,7 +68,15 @@ https://alertmanager-main-openshift-monitoring.roks-cluster-wdc07-cp4d-317ec00f6
 
 ## CP4D Services
 
+oc get pods -A | grep dv
 
+oc get pods -A | grep db2wh
+
+oc get pods -A | grep db2oltp
+
+oc get pods -A | grep dmc
+
+oc get pods -A | grep wkc
 
 ## DB2 WAREHOUSE EXERCISE
 
