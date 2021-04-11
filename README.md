@@ -50,15 +50,23 @@ oc get jobs
 
 oc get jobs -A
 
-
-
 ### Get Storage Class
+
+oc get sc -A
 
 ### Get PVC
 
+oc get pvc -A
+
 ### Get Service Accounts
 
+oc get sa
+
+oc get sa -A
+
 ### Get Non Working Pods status 
+
+oc get pods -A | grep -v Completed | grep 0/
 
 ### CP4D Monitoring status
 
