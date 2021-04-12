@@ -7,6 +7,7 @@
 
 Your API token is
 BHfLzq_KVz_Cogx_q13pDHacM9rPGrEjezuMCVdqHB4
+
 Log in with this token
 
 oc login --token=BHfLzq_KVz_Cogx_q13pDHacM9rPGrEjezuMCVdqHB4 --server=https://c109-e.us-east.containers.cloud.ibm.com:30916
