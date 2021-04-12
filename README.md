@@ -5,19 +5,18 @@
 
 ### Login to the Cluster
 
-https://c109-e.us-east.containers.cloud.ibm.com:31885/oauth/token/display
-
 Your API token is
-
-9l90pv1kib-MV3ZZXi8NXUOqxYxJReyD0YHL0zKl0Nw
+SJjwEJ9GoQdMQUJ987K75mdz_oUgO0wuUJ-U4PkELak
 
 Log in with this token
 
-oc login --token=9l90pv1kib-MV3ZZXi8NXUOqxYxJReyD0YHL0zKl0Nw --server=https://c109-e.us-east.containers.cloud.ibm.com:30916
+oc login --token=SJjwEJ9GoQdMQUJ987K75mdz_oUgO0wuUJ-U4PkELak --server=https://c109-e.us-east.containers.cloud.ibm.com:30916
 
 Use this token directly against the API
 
-curl -H "Authorization: Bearer 9l90pv1kib-MV3ZZXi8NXUOqxYxJReyD0YHL0zKl0Nw" "https://c109-e.us-east.containers.cloud.ibm.com:30916/apis/user.openshift.io/v1/users/~"
+curl -H "Authorization: Bearer SJjwEJ9GoQdMQUJ987K75mdz_oUgO0wuUJ-U4PkELak" "https://c109-e.us-east.containers.cloud.ibm.com:30916/apis/user.openshift.io/v1/users/~"
+
+https://c109-e.us-east.containers.cloud.ibm.com:31885/oauth/token/display
 
 C:\Users\PRAVINKEDIA\Downloads\OCP>oc version
     Client Version: 4.6.17
