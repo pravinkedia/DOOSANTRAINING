@@ -5,20 +5,25 @@
 
 ### Login to the Open Shift CP4D Cluster
 
+https://c109-e.us-east.containers.cloud.ibm.com:31885/oauth/token/display
+
 Your API token is
-BHfLzq_KVz_Cogx_q13pDHacM9rPGrEjezuMCVdqHB4
+j8-go7QGFk-JxEhMr_FCFxHutFKpdSGtTLBi8LqXhAc
 
 Log in with this token
 
-oc login --token=BHfLzq_KVz_Cogx_q13pDHacM9rPGrEjezuMCVdqHB4 --server=https://c109-e.us-east.containers.cloud.ibm.com:30916
+oc login --token=j8-go7QGFk-JxEhMr_FCFxHutFKpdSGtTLBi8LqXhAc --server=https://c109-e.us-east.containers.cloud.ibm.com:30916
 
 Use this token directly against the API
 
-curl -H "Authorization: Bearer BHfLzq_KVz_Cogx_q13pDHacM9rPGrEjezuMCVdqHB4" "https://c109-e.us-east.containers.cloud.ibm.com:30916/apis/user.openshift.io/v1/users/~"
+curl -H "Authorization: Bearer j8-go7QGFk-JxEhMr_FCFxHutFKpdSGtTLBi8LqXhAc" "https://c109-e.us-east.containers.cloud.ibm.com:30916/apis/user.openshift.io/v1/users/~"
 
 C:\Users\PRAVINKEDIA\Downloads\OCP>oc version
+
     Client Version: 4.6.17
+    
     Server Version: 4.5.35
+    
     Kubernetes Version: v1.18.3+cdb0358
 
 ### Get Node Status
