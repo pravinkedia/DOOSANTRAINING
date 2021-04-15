@@ -132,7 +132,12 @@ https://www.datavail.com/blog/using-intersect-and-except-in-db2/
 
 https://www.db2tutorial.com/db2-basics/db2-intersect/
 
+### DB2 Monitoring Table Functions
+
+https://github.com/pravinkedia/DB2WHMONITORING/
+
 #### DB2 Create External Table on S3
+
 create external table et_bank_customers SAMEAS bank_customers using  
 (
 dataobject 'bank_customers.csv'
