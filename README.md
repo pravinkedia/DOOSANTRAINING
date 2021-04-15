@@ -132,6 +132,10 @@ https://www.datavail.com/blog/using-intersect-and-except-in-db2/
 
 https://www.db2tutorial.com/db2-basics/db2-intersect/
 
+### Download the Lift based on your platform and version
+
+https://www.lift-cli.cloud.ibm.com/
+
 ### IBM LIFT DEMO ONLINE
 
 https://www.youtube.com/embed/9sA1xY3W_OU?rel=0
