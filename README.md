@@ -93,13 +93,13 @@ oc get pods -A | grep wkc
 ### DB2 Connections
 
 #### DB2 warehouse connection
-jdbc:db2://10.191.195.39:32732/BLUDB:user=dev3;password=ibmindia@trainer;securityMechanism=9;encryptionAlgorithm=2
+jdbc:db2://10.191.195.39:32732/BLUDB:user=dev3;password=XXXXXXXXXXXXXX;securityMechanism=9;encryptionAlgorithm=2
 
 #### DB2 Bigsql connection
-jdbc:db2://10.191.195.39:31737/bigsql:user=dev3;password=ibmindia@trainer;
+jdbc:db2://10.191.195.39:31737/bigsql:user=dev3;password=XXXXXXXXXXXXXX;
 
 #### DB2oltp connection
-jdbc:db2://10.191.195.39:31395/BLUDB:user=cp4d@doosan.com;password=123qwer@;securityMechanism=9;encryptionAlgorithm=2
+jdbc:db2://10.191.195.39:31395/BLUDB:user=cp4d@doosan.com;password=XXXXXXXXXXXXX;securityMechanism=9;encryptionAlgorithm=2
 
 ### DB2 Exercise using tables in DEV3 schema in DB2 Warehouse
 
@@ -172,3 +172,6 @@ ROLE DASHDB_ENTERPRISE_USER to user "CP4D@DOOSAN.COM";
 
 https://github.com/pravinkedia/CP4DBIGSQLS3
 
+### CP4D Data Refinery
+
+https://github.com/pravinkedia/BOBCATDATAREFINERY
