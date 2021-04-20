@@ -175,3 +175,7 @@ https://github.com/pravinkedia/CP4DBIGSQLS3
 ### CP4D Data Refinery
 
 https://github.com/pravinkedia/BOBCATDATAREFINERY
+
+### CP4D WKC Governance
+
+https://github.com/pravinkedia/BOBCATWKC
