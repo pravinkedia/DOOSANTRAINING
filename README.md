@@ -166,9 +166,9 @@ insert into bank_customers select * from et_bank_customers;
 
 https://zen-cpd-zen.roks-cluster-wdc07-cp4d-317ec00f62194b593815c26a27e030dc-0000.us-east.containers.appdomain.cloud/dmc/console/#open/bigsql/bigsql-1614324740723680?serviceInstanceNamespace=zen&serviceInstanceDisplayName=Db2-Big-SQL-1
 
-### DB2 BIGSQL S3 Integration
+### DB2 BIGSQL S3 Integration (run as dev3 user)
 
-ROLE DASHDB_ENTERPRISE_USER to user "CP4D@DOOSAN.COM";
+GRAND ROLE DASHDB_ENTERPRISE_USER to user "CP4D@DOOSAN.COM";
 
 https://github.com/pravinkedia/CP4DBIGSQLS3
 
