@@ -168,7 +168,7 @@ https://zen-cpd-zen.roks-cluster-wdc07-cp4d-317ec00f62194b593815c26a27e030dc-000
 
 ### DB2 BIGSQL S3 Integration (run as dev3 user)
 
-GRAND ROLE DASHDB_ENTERPRISE_USER to user "CP4D@DOOSAN.COM";
+GRANT ROLE DASHDB_ENTERPRISE_USER to user "CP4D@DOOSAN.COM";
 
 https://github.com/pravinkedia/CP4DBIGSQLS3
 
