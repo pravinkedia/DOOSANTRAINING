@@ -88,6 +88,10 @@ oc get pods -A | grep dmc
 
 oc get pods -A | grep wkc
 
+## DB2 Warehouse Install on CP4D
+
+https://github.com/pravinkedia/CP4DDWHINSTALL/
+
 ## DB2 WAREHOUSE EXERCISE
 
 ### DB2 Connections
@@ -183,3 +187,15 @@ https://github.com/pravinkedia/BOBCATWKC
 ### CP4D Data Stage
 
 https://github.com/pravinkedia/BOBCATDATASTAGE
+
+### CP4D Data Virtualization Training Exercise
+
+https://github.com/pravinkedia/BOBCATDATAVIRTUALIZATION
+
+### CP4D DV Backup and Restore
+
+https://github.com/pravinkedia/CP4D-DVCLI-BAR/
+
+### CP4D Clone and Reinstate
+
+https://github.com/pravinkedia/CP4DAWSCLONE/
