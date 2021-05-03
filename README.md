@@ -196,6 +196,6 @@ https://github.com/pravinkedia/BOBCATDATAVIRTUALIZATION
 
 https://github.com/pravinkedia/CP4D-DVCLI-BAR/
 
-### CP4D Clone and Reinstate
+### CP4D Clone and Reinstate Process
 
 https://github.com/pravinkedia/CP4DAWSCLONE/
