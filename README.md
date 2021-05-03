@@ -192,7 +192,7 @@ https://github.com/pravinkedia/BOBCATDATASTAGE
 
 https://github.com/pravinkedia/BOBCATDATAVIRTUALIZATION
 
-### CP4D DV Backup and Restore
+### CP4D Data Virtualization (DV) Backup and Restore using dv-cli.sh
 
 https://github.com/pravinkedia/CP4D-DVCLI-BAR/
 
