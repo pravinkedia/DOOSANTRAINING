@@ -199,3 +199,7 @@ https://github.com/pravinkedia/CP4D-DVCLI-BAR/
 ### CP4D Clone and Reinstate Process
 
 https://github.com/pravinkedia/CP4DAWSCLONE/
+
+### CP4D Cognos Analytics Service
+
+https://github.com/pravinkedia/CP4DCOGNOS/
